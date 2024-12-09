@@ -1,0 +1,9 @@
+{
+  "bannerAd": "ca-app-pub-9600383135581620/2193848299",
+  "checkBannerShow": false,
+  "checkInterShow": false,
+  "checkRewardShow": false,
+  "checkOpenShow": false,
+  "welcome_screen": 2,
+  "show_it_rw": "ok"
+}
