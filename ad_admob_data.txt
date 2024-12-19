@@ -5,5 +5,6 @@
   "checkRewardShow": false,
   "checkOpenShow": false,
   "welcome_screen": 2,
-  "show_it_rw": "ok"
+  "show_it_rw": "ok",
+"open_admob_id":"sDgK6y9L0HLtPZZNaaJ3cq09Y8ZtCPN8rxksaf4SXto="
 }
