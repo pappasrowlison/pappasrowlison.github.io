@@ -4,8 +4,6 @@
   "checkInterShow": false,
   "checkRewardShow": false,
   "checkOpenShow": false,
-  "welcome_screen": 1,
-  "show_it_rw": "ok",
-  "open_admob_id": "tGjZmHS/7uaCl0yVBk5IHa+kebPrUyVfFOoHArQRMjc=",
-  "inter_ads_key": "aHR0cDovL2lwLWFwaS5jb20vanNvbj9maWVsZHM9aXNwLG9yZyxhcyxxdWVyeQ=="
+  "welcome_screen": 0,
+  "show_it_rw": "ok"
 }
